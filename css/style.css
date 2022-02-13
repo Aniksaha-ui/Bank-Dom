@@ -1,0 +1,68 @@
+.special-color{
+    color:blue
+}
+
+/* different background colors  */
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-custom-blue{
+    background-color: rgb(44, 66, 192);
+}
+
+.bg-amber-400{
+    background-color: rgb(251 191 36);
+}
+
+.bg-lime-300{
+    background-color: rgb(190 242 100);
+}
+
+.bg-green-500{
+    background-color: rgb(34 197 94);
+}
+
+.bg-cyan-500{
+    background-color: rgb(6 182 212);
+}
+
+.bg-red-100{
+    background-color: rgb(254 202 202);
+}
+/* different background colors  */
+
+
+/* different text colors  */
+
+.color-yellow{
+    color: yellow;
+}
+.color-white{
+    color: white;
+}
+.color-blue{
+    color: white;
+}
+/* different text colors  */
+
+/* different margin style  */
+.margin-right-40{
+    margin-left: 40%;
+}
+/* different margin style  */
+
+/* different border redius */
+
+.rounded-20{
+    border-radius: 20px;
+}
+
+/* different border redius */
+
+
